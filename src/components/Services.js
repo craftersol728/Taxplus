@@ -24,9 +24,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Taxation Services</h2>
                                     <p className="text-md font-medium">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                    We offer comprehensive tax services for businesses of all sizes. Our seasoned tax professionals stay up-to-date with the latest tax laws and regulations to help you minimize liabilities and maximize savings. We're dedicated to providing tailored solutions to meet your unique tax needs, ensuring compliance and supporting your financial goals.
                                     </p>
                                 </div>
                             </div>
@@ -34,9 +34,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Mobile App Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Business Consultancy</h2>
                                     <p className="text-md font-medium">
-                                        We develop high-quality, custom cross-platform mobile applications that are robust and optimized for performance, scalability, and accessibility.
+                                    We provide effective business consultancy services that deliver tangible results. With a solid understanding of different markets and business practices, we offer strategic planning, operational improvement strategies, and business transformation solutions. Our expertise spans various industries, allowing us to provide insightful, tailored advice that promotes sustainable growth.
                                     </p>
                                 </div>
                             </div>
@@ -44,9 +44,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">Domain and Hosting Services</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Bookkeeping/Payroll Services</h2>
                                     <p className="text-md font-medium">
-                                        We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
+                                    We offer exceptional bookkeeping and payroll services, meticulously handling your financial records and processing employee payments. Our team prioritizes accuracy, timely delivery, and confidentiality, making sure that your business's financial operations run seamlessly.
                                     </p>
                                 </div>
                             </div>
@@ -54,9 +54,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">General IT Consultations</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">IRS Auditing Services</h2>
                                     <p className="text-md font-medium">
-                                        Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
+                                    Our expert team is skilled in managing IRS audits, ensuring that your transactions and financial reports are compliant with relevant laws and regulations. We guide you through the intricate auditing process, providing clarity and assurance while helping to minimize financial risk.
                                     </p>
                                 </div>
                             </div>                    
@@ -75,7 +75,7 @@ const Services = () => {
                             font-bold">We <span className='font-black'>Build</span></h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>
-                                    With over 10 years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.
+                                Our team can partner with your in-house tax professionals to augment existing tax software applications or develop bespoke ones that cater to your day-to-day needs and simplify complex tax processes.
                                 </p>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ const Services = () => {
                             </div>
                             <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collaborate</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>With a wealth of experience in tax software analysis and design, and a comprehensive understanding of the latest tax laws and solutions, we provide personalized strategies to streamline your operations, reduce overheads, and enhance compliance.</p>
                             </div>
                         </div>
                     </div>

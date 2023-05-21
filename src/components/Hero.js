@@ -15,7 +15,7 @@ const Hero = () => {
 
                     <div className="flex flex-col lg:flex-row py-8 justify-between text-center lg:text-left">
                         <div className="lg:w-1/2 flex flex-col justify-center" data-aos="zoom-in" data-aos-delay="200">
-                            <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900">
+                            <h1 className="mb-5 md:text-5xl text-3xl font-bold text-red-900">
                             {/* We build digital solutions to help businesses scale */}
                             Helping Clients Keep More Of What They Earn
                             </h1>

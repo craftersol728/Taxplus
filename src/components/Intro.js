@@ -13,7 +13,11 @@ const Intro = () => {
                         </div>
                         <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8" data-aos="zoom-in" data-aos-delay="500">
                             
-                            <h3 className="text-3xl  text-blue-900 font-bold">Our services are designed to make your job easier and provide you with more time to focus on building your business.  </h3>
+                            <h3 className="text-3xl  text-red-900 font-bold">Our services are designed to make your job easier and provide you with more time to focus on building your business.  </h3>
+                            <div>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>We have been in business and worked with clients from all over the San Francisco Bay Area for 35 years providing bookkeeping, tax, and financial management services tailored to meet the needs of business clients. </p>
+                            </div>
+                            
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>We keep abreast of tax law changes throughout the year to ensure that you are taking advantage of ALL tax incentives.</p>
                             </div>

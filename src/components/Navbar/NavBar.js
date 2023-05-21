@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import NavLinks from '../Navbar/NavLinks';
+import logo from '../../images/clients/TaxPlus 2 (1).png'; 
 
 
 const NavBar = () => {
@@ -23,7 +24,7 @@ const NavBar = () => {
         <nav className={`fixed top-0 w-full z-30 transition duration-300 ease-in-out mb-16 ${!top && 'bg-white shadow-lg'}`}>
             <div className="flex flex-row justify-between items-center py-2">
                 <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
-                    <Link to="/"><h1 className="font-extrabold text-4xl text-blue-900">mld</h1></Link>
+                <Link to="/"><img src={logo} alt="TaxPlus logo" className="h-12 w-auto" /></Link>
                     
                 </div>
                 <div className="group flex flex-col items-center">

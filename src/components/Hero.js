@@ -19,7 +19,7 @@ const Hero = () => {
                             {/* We build digital solutions to help businesses scale */}
                             Helping Clients Keep More Of What They Earn
                             </h1>
-                            <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">We are a team of highly motivated and skilled CPA & Bookkeepers dedicated to delivering only the best outcome.</div>
+                            <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">We are a team of highly motivated and skilled EA & Bookkeepers dedicated to delivering only the best outcome.</div>
                             <div className="mb-4 space-x-0 md:space-x-2 md:mb-8">
                                 <Link to="/contact" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-2xl sm:w-auto sm:mb-0">
                                     Learn more

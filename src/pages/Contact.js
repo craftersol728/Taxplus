@@ -180,8 +180,8 @@ const Contact = () => {
                                         <i className="fas fa-map-marker-alt pt-2 pr-2" />
                                     </div>
                                     <div className="flex flex-col">
-                                        <h2 className="text-2xl">1250 Addison Street</h2>
-                                        <p className="text-gray-400">Berkeley, CA</p>
+                                        <h2 className="text-2xl">31120 Thomas Lane</h2>
+                                        <p className="text-gray-400">FortBragg, CA, 95436</p>
                                     </div>
                                 </div>
                     

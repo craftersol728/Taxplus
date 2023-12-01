@@ -16,9 +16,8 @@ const Footer = () => {
                         <div className="box-border border-b-4 border-red-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
                             <h3 className="font-bold text-4xl mb-4">TaxPlus</h3>
                             <div className='text-md font-medium text-gray-600'>
-                                <h5>1250 Addison Str</h5>
-                                <p>Suite 100</p>
-                                <p>Berkeley, CA</p>
+                                <h5>31120 Thomas Lane</h5>
+                                <p>Fort Bragg, CA, 95437</p>
                             </div>
                         </div>
                     </div>
